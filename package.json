@@ -1,0 +1,14 @@
+{
+  "name": "js-funcional",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CarlosNeto2804/js-funcional.git",
+  "author": "Carlos Alberto Neto <carloshtcursos@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node":"v12.13.0",
+    "npm":"6.13.7",
+    "yarn":"1.21.1"
+  }
+}
